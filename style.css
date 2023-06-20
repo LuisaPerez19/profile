@@ -36,6 +36,11 @@ ul li a i {
   color: #FDA5A4
 }
 
+ul li a {
+  font-size: 30px;
+  color: #FDA5A4
+}
+
 .container {
   width: 500px;
   margin: 0px auto;
